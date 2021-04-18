@@ -20,7 +20,7 @@ If your thing is already online, just link to it. Either:
 
 ## Add it to this repo
 
-If you'd prever it included directly here, either:
+If you'd prefer it included directly here, either:
 
 1. Send a pull request to this repo with your thing.
   - Put it in its own folder with a descriptive name.
