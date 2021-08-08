@@ -1,4 +1,4 @@
-# utilities.johnnydecimal.com
+# Awesome Johnny.Decimal
 
 Utilities, tools, and scripts that people have built to support the system.
 
