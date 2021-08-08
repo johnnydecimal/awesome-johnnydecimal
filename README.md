@@ -36,6 +36,10 @@ j.
 
 ## Desktop utilities
 
+### Linux
+
+- [bminusl/ulauncher-jd](https://github.com/bminusl/ulauncher-jd): [Ulauncher](https://ulauncher.io/) extension for the Johnny Decimal filing system. 
+
 ### macOS
 
 - [bsag/alfred-jd](https://github.com/bsag/alfred-jd): First! 🥳 An [Alfred](https://alfredapp.com) workflow to jump straight to the JD folders on your filesystem.
