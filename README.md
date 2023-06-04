@@ -44,6 +44,10 @@ j.
 
 - [bsag/alfred-jd](https://github.com/bsag/alfred-jd): First! 🥳 An [Alfred](https://alfredapp.com) workflow to jump straight to the JD folders on your filesystem.
 
+## Web utilities
+
+- [johnny-decimal-generator](https://johnny-decimal-generator.netlify.app/) is a web application that lets you create an index map (@emory: up to 9 areas) and the [johnny-decimal-generator repository](https://github.com/ekafyi/johnnydecimal-index-generator), maintained by [ekafyi](https://github.com/ekafyi/)
+
 # Description of utilities hosted here
 
 > None yet.
