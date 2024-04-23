@@ -36,6 +36,10 @@ j.
 
 ## Desktop utilities
 
+### Platform-Agnostic
+
+- [SwissArmyWrench/johnnybgoode](https://github.com/SwissArmyWrench/johnnybgoode): A cross-platform terminal tool to jump between your JD folders and export an index, instantly.
+
 ### Linux
 
 - [bminusl/ulauncher-jd](https://github.com/bminusl/ulauncher-jd): [Ulauncher](https://ulauncher.io/) extension for the Johnny Decimal filing system. 
