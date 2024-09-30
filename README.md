@@ -2,56 +2,44 @@
 
 Utilities, tools, and scripts that people have built to support the system.
 
-# TOC
+> **LINKS TO THIRD-PARTY SOFTWARE ARE PROVIDED FOR CONVENIENCE. I DO NOT ENDORSE OR VERIFY THE CONTENT, FUNCTIONALITY, OR SECURITY OF THESE EXTERNAL FILES. USE AT YOUR OWN RISK.**
 
-- [Adding your thing to the list](#adding-your-thing-to-the-list)
-- [Links to utilities hosted elsewhere](#links-to-utilities-hosted-elsewhere)
-- [Description of utilities hosted here](#description-of-utilities-hosted-here)
+## Add your thing to this list
 
-# Adding your thing to the list
+Please add your entry to this file and submit a PR. Corrections & updates also gratefully received.
 
-## Link to your own repo
+## Check the forum
 
-If your thing is already online, just link to it. Either:
+You should also check forum category [31 Apps and utilities](https://forum.johnnydecimal.com/c/30-39-the-library/31-apps-and-utilities/16) where people post scripts and helpers that might not make it to this page.
 
-1. Edit this README with a link to your thing.
-  - Create a new section if it makes sense.
-2. Mail me or post a link on [the forum](https://forum.johnnydecimal.com) and I'll link it for you.
+---
 
-## Add it to this repo
+# Platform-agnostic / unsure
 
-If you'd prefer it included directly here, either:
+- [SwissArmyWrench/johnnybgoode](https://github.com/SwissArmyWrench/johnnybgoode)
+  - A cross-platform terminal tool to jump between your JD folders and export an index, instantly.
+- [tifrueh/jdfs](https://github.com/tifrueh/jdfs)
+  - The jdfs utility is a simple but powerful tool navigate and manipulate johnny.decimal file systems with.
+- [Grayson/jdexmd](https://crates.io/crates/jdexmd/0.1.3)
+  - This tool will create both an Obsidian structure as well as a parallel directory structure for non-notes files.
 
-1. Send a pull request to this repo with your thing.
-  - Put it in its own folder with a descriptive name.
-2. Mail your thing to me, and I'll add it.
-  - Let me know if you'd like to be credited as the author (default: yes, by name, no email address shown).
-  - Everything added to this repo becomes MIT-licensed.
+# Linux
 
-Thanks!
+- [bminusl/ulauncher-jd](https://github.com/bminusl/ulauncher-jd)
+  - [Ulauncher](https://ulauncher.io/) extension for the Johnny Decimal filing system.
 
-j.
+# macOS
 
-# Links to utilities hosted elsewhere
+- [bsag/alfred-jd](https://github.com/bsag/alfred-jd)
+  - First! 🥳 An [Alfred](https://alfredapp.com) workflow to jump straight to the JD folders on your filesystem.
 
-## Desktop utilities
+# Windows
 
-### Platform-Agnostic
+- [Johnny.Decimal folders normalization tool](https://github.com/EvgenyVenalainen/jd-folders-tool)
+  - This application was intended to quickly change a number in the folder names according to JD system; a user could easily change names of folders and not keep the correspondence between different folder levels. The application being launched inside the root folder will recover folder name consistency.
 
-- [SwissArmyWrench/johnnybgoode](https://github.com/SwissArmyWrench/johnnybgoode): A cross-platform terminal tool to jump between your JD folders and export an index, instantly.
+# Web
 
-### Linux
-
-- [bminusl/ulauncher-jd](https://github.com/bminusl/ulauncher-jd): [Ulauncher](https://ulauncher.io/) extension for the Johnny Decimal filing system. 
-
-### macOS
-
-- [bsag/alfred-jd](https://github.com/bsag/alfred-jd): First! 🥳 An [Alfred](https://alfredapp.com) workflow to jump straight to the JD folders on your filesystem.
-
-## Web utilities
-
-- [johnny-decimal-generator](https://johnny-decimal-generator.netlify.app/) is a web application that lets you create an index map (@emory: up to 9 areas) and the [johnny-decimal-generator repository](https://github.com/ekafyi/johnnydecimal-index-generator), maintained by [ekafyi](https://github.com/ekafyi/)
-
-# Description of utilities hosted here
-
-> None yet.
+- [johnny-decimal-generator](https://johnny-decimal-generator.netlify.app/)
+  - A web application that lets you create an index map (@emory: up to 9 areas) and the [johnny-decimal-generator repository](https://github.com/ekafyi/johnnydecimal-index-generator), ~~maintained by [ekafyi](https://github.com/ekafyi/)~~ no longer maintained.
+  - **⚠️ WARNING ⚠️** This tool stores everything in your browser's local storage. So if you clear that, or if you use this in a private/incognito window, **it is easy to lose your work**.
