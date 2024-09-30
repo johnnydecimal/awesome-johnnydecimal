@@ -1,4 +1,4 @@
-# Awesome Johnny.Decimal
+# awesome-johnnydecimal
 
 Utilities, tools, and scripts that people have built to support the system.
 
