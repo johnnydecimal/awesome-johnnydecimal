@@ -22,6 +22,8 @@ You should also check forum category [31 Apps and utilities](https://forum.johnn
   - The jdfs utility is a simple but powerful tool navigate and manipulate johnny.decimal file systems with.
 - [Grayson/jdexmd](https://crates.io/crates/jdexmd/0.1.3)
   - This tool will create both an Obsidian structure as well as a parallel directory structure for non-notes files.
+- [SiriusStarr/jdlint](https://github.com/SiriusStarr/jdlint)
+  - Ensure that your Johnny Decimal system is neat and clean.
 
 # Linux
 
