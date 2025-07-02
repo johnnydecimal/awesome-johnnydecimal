@@ -29,6 +29,9 @@ You should also check forum category [31 Apps and utilities](https://forum.johnn
 
 - [bminusl/ulauncher-jd](https://github.com/bminusl/ulauncher-jd)
   - [Ulauncher](https://ulauncher.io/) extension for the Johnny Decimal filing system.
+- [jdd](https://github.com/mahyarmirrashed/jdd)
+  - Johnny Decimal daemon for automatically organizing files into the correct drawer using their name.
+  - Also see [jdd.nvim](https://github.com/mahyarmirrashed/jdd.nvim) to run the daemon automatically in Neovim.
 
 # macOS
 
