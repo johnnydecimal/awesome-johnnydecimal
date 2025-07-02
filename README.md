@@ -35,8 +35,7 @@ You should also check forum category [31 Apps and utilities](https://forum.johnn
 
 # macOS
 
-- [bsag/alfred-jd](https://github.com/bsag/alfred-jd)
-  - First! 🥳 An [Alfred](https://alfredapp.com) workflow to jump straight to the JD folders on your filesystem.
+- ~~[bsag/alfred-jd](https://github.com/bsag/alfred-jd)~~ 404
 
 # Windows
 
